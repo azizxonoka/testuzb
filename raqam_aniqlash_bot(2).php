@@ -1,5 +1,5 @@
 <?php
-define('API_KEY','1158166666:AAGbE2Ek7Y5_h0MbRiuWAL1OhRCQ34lHLUo ');
+define('API_KEY','1067513909:AAGgZKJOWtSS4GkzvZ6pDmLWOAyfMyTTIi8 ');
 $admin = "1084409772"; // admin idsi
 function del($nomi){
 array_map('unlink', glob("$nomi"));
